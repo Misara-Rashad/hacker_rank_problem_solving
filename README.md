@@ -1,3 +1,2 @@
-# hacker_rank_problem_solving
+# hacker_rank_problem_solving_solutions with c programming_language
 hacker_rank_problem_solving_solutions
-hacker rank problem solving solutions
